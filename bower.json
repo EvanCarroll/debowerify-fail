@@ -1,0 +1,20 @@
+{
+  "name": "debowerify-fail",
+  "version": "0.0.0",
+  "authors": [
+    "Evan Carroll <me@evancarroll.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react-bootstrap": "~0.13.3"
+  }
+}
